@@ -1,8 +1,8 @@
 # Repository for ai4dl class
 
-Author: **_minjeong&sunje_**
+Author: **_minjeong_**
 
 ### Folders
-- week[1-6]: Exercise notebooks
+- week[1-16]: Exercise notebooks
 - practice: random practice codes
 - etc: anyting interestig
