@@ -1,6 +1,6 @@
 # Repository for ai4dl class
 
-Author: **minjeong**
+Author: **_minjeong&sunje_**
 
 ### Folders
 - week[1-6]: Exercise notebooks
